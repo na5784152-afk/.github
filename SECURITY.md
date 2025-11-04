@@ -1,4 +1,5 @@
-Thanks for helping make GitHub safe for everyone.
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](URL)
+ for helping make GitHub safe for everyone.
 
 ## Security
 
